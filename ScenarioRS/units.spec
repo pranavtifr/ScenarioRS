@@ -19,7 +19,7 @@ artists = "
 "
 
 [file]
-gfx = "trident/units"
+gfx = "ScenarioRS/units"
 
 [grid_main]
 

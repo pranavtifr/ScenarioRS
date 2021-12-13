@@ -13,7 +13,7 @@ artists = "
 "
 
 [file]
-gfx = "RoundSquare/unit_info"
+gfx = "ScenarioRS/unit_info"
 
 [grid_main]
 

@@ -12,7 +12,7 @@ artists = "
 "
 
 [file]
-gfx = "RoundSquare/paths"
+gfx = "ScenarioRS/paths"
 
 [grid_main]
 

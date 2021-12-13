@@ -30,7 +30,7 @@ artists = "
 "
 
 [file]
-gfx = "RoundSquare/cities"
+gfx = "ScenarioRS/cities"
 
 [grid_main]
 

@@ -14,7 +14,7 @@ artists = "
 "
 
 [file]
-gfx = "RoundSquare/explosions"
+gfx = "ScenarioRS/explosions"
 
 [grid_main]
 

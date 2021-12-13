@@ -13,7 +13,7 @@ artists = "
 "
 
 [file]
-gfx = "RoundSquare/yields"
+gfx = "ScenarioRS/yields"
 
 [grid_main]
 

@@ -13,7 +13,7 @@ artists = "
 ; Graphics designed to be small yet still recognizable.
 
 [file]
-gfx = "RoundSquare/citybar"
+gfx = "ScenarioRS/citybar"
 
 [grid_big]
 

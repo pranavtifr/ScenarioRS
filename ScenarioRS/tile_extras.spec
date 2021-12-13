@@ -16,7 +16,7 @@ artists = "
 "
 
 [file]
-gfx = "RoundSquare/tile_extras"
+gfx = "ScenarioRS/tile_extras"
 
 [grid_main]
 

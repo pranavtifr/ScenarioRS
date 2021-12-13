@@ -8,7 +8,7 @@ options = "+Freeciv-2.6-spec"
 artists = "unknown"
 
 [file]
-gfx = "RoundSquare/fog"
+gfx = "ScenarioRS/fog"
 
 [grid_main]
 
