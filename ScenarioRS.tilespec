@@ -4,7 +4,7 @@
 options = "+Freeciv-2.6-tilespec"
 
 ; A simple name for the tileset specified by this file:
-name = "RoundSquare"
+name = "ScenarioRS"
 priority = 5
 
 
@@ -92,32 +92,32 @@ minimap_intro_file = "misc/radar"
 ; tag is used).
 files =
   "misc/overlays.spec",
-  "RoundSquare/citybar.spec", 
-  "RoundSquare/yields.spec",
-  ;  "RoundSquare/yields_f.spec",	;Optional Full-Food yield graphics.  Uncomment to activate. 
-  "RoundSquare/unit_info.spec",
-  "RoundSquare/upkeep.spec",  
-  "RoundSquare/paths.spec",
-  "RoundSquare/numbers.spec",
-  "RoundSquare/tile_extras.spec",
-  "RoundSquare/tiles.spec",
+  "ScenarioRS/citybar.spec", 
+  "ScenarioRS/yields.spec",
+  ;  "ScenarioRS/yields_f.spec",	;Optional Full-Food yield graphics.  Uncomment to activate. 
+  "ScenarioRS/unit_info.spec",
+  "ScenarioRS/upkeep.spec",  
+  "ScenarioRS/paths.spec",
+  "ScenarioRS/numbers.spec",
+  "ScenarioRS/tile_extras.spec",
+  "ScenarioRS/tiles.spec",
   ;earth?
-  "RoundSquare/specialists.spec",
+  "ScenarioRS/specialists.spec",
   "misc/small.spec",
   "misc/events.spec",
   "misc/governments.spec",
-  "RoundSquare/units_LT.spec",
-  "RoundSquare/units.spec",
-  "RoundSquare/select.spec",
+  "ScenarioRS/units_LT.spec",
+  "ScenarioRS/units.spec",
+  "ScenarioRS/select.spec",
   "misc/flags.spec",
   "misc/shields.spec",
   "misc/cursors.spec",
-  "RoundSquare/grid.spec",
-  "RoundSquare/roads.spec",
-  "RoundSquare/fog.spec",
-  "RoundSquare/cities.spec",  
-  "RoundSquare/nuke.spec",
-  "RoundSquare/explosions.spec",
+  "ScenarioRS/grid.spec",
+  "ScenarioRS/roads.spec",
+  "ScenarioRS/fog.spec",
+  "ScenarioRS/cities.spec",  
+  "ScenarioRS/nuke.spec",
+  "ScenarioRS/explosions.spec",
   "misc/buildings.spec",
   "misc/space.spec",
   "misc/techs.spec",

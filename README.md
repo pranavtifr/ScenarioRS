@@ -1,3 +1,6 @@
+# ScenarioRS
+RoundSquare modified for Scenario3 in longturn.net. 
+RoundSquare: https://github.com/HansLemurson/RoundSquare/
 # RoundSquare
 This is a tileset for Freeciv designed to have clean un-cluttered graphics. 
 30x30 pixel size, Overhead view.
@@ -21,7 +24,7 @@ See if you can spot the difference!
 
 To install the tileset, open the modpack installer and enter this URL into box at the bottom of the window:
 
-https://raw.githubusercontent.com/HansLemurson/RoundSquare/main/RoundSquare.modpack
+https://raw.githubusercontent.com/pranavtifr/ScenarioRS/main/ScenarioRS.modpack
 
 and then click install modpack.
 
